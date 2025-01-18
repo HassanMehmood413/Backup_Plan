@@ -1,0 +1,52 @@
+# Node.js exclusions
+node_modules/
+Frontend/node_modules/
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+Frontend/dist/
+Frontend/.parcel-cache/
+Frontend/.next/
+Frontend/.nuxt/
+Frontend/out/
+Frontend/.cache/
+
+# Python exclusions
+Backend/__pycache__/
+Backend/*.py[cod]
+Backend/*.egg-info/
+Backend/venv/
+Backend/env/
+Backend/.env
+Backend/.pytest_cache/
+Backend/.mypy_cache/
+Backend/.tox/
+Backend/.coverage
+Backend/coverage/
+Backend/htmlcov/
+
+# Logs and debug
+*.log
+*.bak
+.DS_Store
+Thumbs.db
+
+# IDE and editor exclusions
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific exclusions
+*.swp
+*.swo
+~*
+
+# Sensitive files
+.env
+*.key
+*.pem
