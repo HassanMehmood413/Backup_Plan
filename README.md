@@ -24,8 +24,6 @@ Furthurmore, for more assurance you can read articles of highly rated and talent
 
 [DEMO Video](https://drive.google.com/file/d/1m1HP5VDtceGjZzfnaRXyUxJX364UThXW/view)
 
----
-
 ## Conclusion
 `Some problems that people have to face:`
 - Limited accessibility to diagnostic tools and specialized doctors.
