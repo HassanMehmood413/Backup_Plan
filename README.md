@@ -40,7 +40,15 @@ Furthurmore, for more assurance you can read articles of highly rated and talent
 
 ## Here is the preview:
 
-![First](Frontend/svgs/)
+![First](Frontend/svgs/fronts.png)
+
+---
+
+![Second](Frontend/svgs/started.png)
+
+---
+
+![Third](Frontend/svgs/response.png)
 
 
 
